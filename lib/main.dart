@@ -8,10 +8,10 @@ void main() async {
   //firebase creadianstionls for connecting firbase to flutter pass value
   await Firebase.initializeApp(
     options: FirebaseOptions(
-      apiKey: "AIzaSyAxWOmEurkUJygBH-lXAr7dsitxRUWgCqU",
-      appId: "1:835660715834:android:1b42b2471b4c2408282203",
-      messagingSenderId: "835660715834",
-      projectId: "noteapp-7e17b",
+      apiKey: 
+      appId: 
+      messagingSenderId:
+      projectId: 
     ),
   );
   runApp(const MyApp());
